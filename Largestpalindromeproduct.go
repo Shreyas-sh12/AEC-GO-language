@@ -14,7 +14,7 @@ func isPalindrome(n int) bool {
 		}
 	}
 	return true
-}u
+}
 
 func largestPalindromeproduct() (int, int, int) {
 	largestPalindrome := 0
